@@ -33,3 +33,10 @@ Dependency versions are recorded in requirements.txt. The preparation environmen
 - Added labelled comparison bars, a top-five/remainder treemap (part-to-whole), exact-value tables, and an explicit snapshot date.
 - Syntax compilation and standalone Plotly chart-construction checks can be performed without Streamlit.
 - **Limitation:** Streamlit was not installed in the available offline test runtime and package installation was blocked by network DNS. The updated Part 2 app therefore **has not yet passed a fresh Streamlit AppTest or browser check**. Do not cite the earlier Part 1 AppTest as validation of this revised app. Run `python test_app.py` and perform a browser check after installation on the student's Mac.
+
+
+## Student-reported final checks - 7 November 2026
+
+The contributor subsequently reported that the deployed app's three dashboards and all five cloud functional checks worked, including the 2025 Verify a number view and 1366 x 768 layout. The user manually traced the Eagle 2 (source record 191) country labels, removing repetitions and allocating one third to each unique label; explained that 103.6667 / 107 x 100 = 96.8847%; reported warm-page loading in under five seconds, approximately one second or faster for filter response, and passing a Chrome colour-vision-deficiency simulation. These checks are user-reported; exact timings and simulation screenshots were not provided, and cold-start after cloud hibernation was not tested separately.
+
+The earlier 'not yet completed' note refers to the package preparation stage; consult `FINAL_VALIDATION_LOG.md` for the later report. Instructor approval to submit as an individual instead of a group remains unresolved.

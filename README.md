@@ -37,7 +37,7 @@ See [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md), [`docs/DATA_DICTIONARY.md`](do
 | 5 | Annual bar — **comparison** of yearly eligible sample sizes | Concentration |
 | Optional | HHI line — concentration sensitivity by a different metric | Concentration |
 
-Important values are visible in bar labels, key on-graph annotations, and tables under the charts, without requiring hover. Country names, years, percentage units, and model-count units are written explicitly. Colors are not the only way to distinguish series, but a manual colour-vision check remains necessary.
+Important values are visible in bar labels, key on-graph annotations, and tables under the charts, without requiring hover. Country names, years, percentage units, and model-count units are written explicitly. Colors are not the only way to distinguish series. On 7 November 2026, the contributor reported passing a Chrome colour-vision-deficiency simulation; this is a user-reported visual check, not a universal-accessibility certification.
 
 ## Run locally (macOS)
 
@@ -75,7 +75,7 @@ Use `python scripts/check_reproducibility.py` to regenerate the outputs and veri
 3. In the second tab, clear all countries: a friendly info message appears instead of an exception or blank display.
 4. Check all charts at **1366 × 768** and test readability without hover. Confirm only vertical page scrolling is necessary.
 5. In **Verify a number**, keep default year range and sensitivity off, select 2025: the calculation must show **96.884735%** (approximately 96.9%). Check the weights and source IDs.
-6. On the deployed URL, measure cold-load time (target <5 seconds) and interaction response (target about 1 second). **These browser performance checks have not yet been verified.**
+6. On the deployed URL, measure loading (target <5 seconds) and interaction response (target about 1 second). On 7 November 2026, the contributor reported a **warm-page load under five seconds** and filter changes in **about one second or faster**. Exact measured timings and a separate cold-start/hibernation benchmark were not retained; see `docs/FINAL_VALIDATION_LOG.md`.
 
 ## Publish and submit
 

@@ -1,17 +1,19 @@
-# AI assistance disclosure
+# AI assistance disclosure — Who Builds AI?
 
-ChatGPT assisted with selecting and refining the question, drafting Python and Streamlit code, preparing calculations and tests, writing documentation, and drafting the recording script. The user supplied the downloaded CSV. The package was generated with substantial AI assistance; it should not be represented as independently written student code.
+This file is a short companion to the full data-and-AI disclosure in [`DATA_AI_DISCLOSURE.md`](DATA_AI_DISCLOSURE.md). Please consult that statement and [`AI_PROVENANCE_MATRIX.csv`](AI_PROVENANCE_MATRIX.csv) for the complete, dated record.
 
-Automated checks performed during preparation are reported in VALIDATION.md. The independent arithmetic check means a second computational method was used, not that a human independently reviewed the work. No personal student validation, group approval, deployment or recording is claimed.
+ChatGPT substantially assisted with question framing, code, visualisations, tests, calculations, documentation, deployment guidance, and Part 1 presentation drafts. This project should not be described as entirely independent student-authored work.
 
-Before submission, the presenter should review the raw rows, reproduce a displayed calculation, test the interactions, understand the limitations, and adapt the script to their actual contribution. Record any personal changes and checks below after completing them.
+## Actions personally reported by the contributor
+- Junjie Chen uploaded and reorganised the GitHub repository, committed and pushed the folder-path changes, and deployed the Streamlit app publicly.
+- The contributor reported verifying the local dashboards and five cloud-app checks, including the 2025 value trace.
+- These reports do **not** establish a formal colour-accessibility audit, measured cold-load performance, independent manual source audit, or permission to submit the group assignment individually.
 
-| Personal action | Date completed | Evidence or file |
-|---|---|---|
-| Confirmed contribution with group | Not yet recorded | |
-| Checked original CSV and country parsing | Not yet recorded | |
-| Recalculated 2025 indicator | Not yet recorded | |
-| Tested app locally | Not yet recorded | |
-| Revised presentation in own words | Not yet recorded | |
+## Remaining verification
+- [ ] Perform and record a manual raw-source trace.
+- [ ] Perform an independently explained 2025 calculation.
+- [ ] Measure load/interaction times and test colour accessibility.
+- [ ] Confirm submission permission and applicable AI policy.
+- [ ] Review the complete disclosure and matrix for factual accuracy.
 
-Follow the course's AI policy and required declaration format. This document does not establish that the course permits every use described here.
+**Updated for project record: 7 November 2026.**

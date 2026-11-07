@@ -1,0 +1,163 @@
+year,country,weight
+2010,Canada,4.0
+2010,Germany,2.0
+2010,United States of America,4.0
+2011,Canada,2.0
+2011,Israel,0.5
+2011,Switzerland,4.0
+2011,United States of America,4.5
+2012,Canada,5.5
+2012,Czechia,1.0
+2012,Germany,1.0
+2012,Switzerland,1.0
+2012,United States of America,4.5
+2013,Canada,1.5
+2013,France,0.5
+2013,Italy,0.5
+2013,Netherlands,1.5
+2013,Singapore,1.0
+2013,United Kingdom,2.0
+2013,United States of America,12.0
+2014,Canada,4.666666666666666
+2014,China,2.5
+2014,Germany,0.8333333333333333
+2014,Hong Kong,2.0
+2014,Israel,0.5
+2014,Multinational,1.0
+2014,Netherlands,0.3333333333333333
+2014,Singapore,1.0
+2014,United Kingdom,6.5
+2014,United States of America,13.666666666666666
+2015,China,2.0
+2015,France,0.5
+2015,Germany,1.0
+2015,Hong Kong,0.5
+2015,Ireland,0.5
+2015,Multinational,1.0
+2015,Singapore,0.5
+2015,United Kingdom,4.5
+2015,United States of America,17.5
+2016,Australia,0.3333333333333333
+2016,Belgium,0.3333333333333333
+2016,Canada,1.5
+2016,China,3.1666666666666665
+2016,France,2.6666666666666665
+2016,Germany,1.5
+2016,Hong Kong,1.5
+2016,Iran (Islamic Republic of),0.3333333333333333
+2016,Multinational,1.0
+2016,United Kingdom,5.0
+2016,United States of America,31.666666666666668
+2017,Canada,2.5
+2017,China,6.833333333333333
+2017,Czechia,0.5
+2017,Denmark,1.0
+2017,France,1.5
+2017,Germany,1.0
+2017,Hong Kong,1.5
+2017,Israel,1.0
+2017,Japan,1.0
+2017,Poland,1.0
+2017,Singapore,0.3333333333333333
+2017,South Korea,3.0
+2017,United Kingdom,11.0
+2017,United States of America,22.833333333333332
+2018,Argentina,0.3333333333333333
+2018,Belgium,0.5
+2018,China,1.0
+2018,Denmark,0.3333333333333333
+2018,France,1.0
+2018,Germany,0.5
+2018,India,1.0
+2018,Japan,1.0
+2018,Malaysia,0.3333333333333333
+2018,Russia,1.0
+2018,South Korea,1.0
+2018,United Kingdom,4.5
+2018,United States of America,24.5
+2019,Australia,1.0
+2019,Canada,0.3333333333333333
+2019,China,2.8333333333333335
+2019,Finland,0.5
+2019,France,3.333333333333333
+2019,Germany,1.0
+2019,Israel,1.0
+2019,South Korea,0.5
+2019,Switzerland,2.5
+2019,United Kingdom,7.333333333333333
+2019,United States of America,47.666666666666664
+2020,Austria,0.5
+2020,Canada,1.25
+2020,China,6.25
+2020,France,2.25
+2020,Germany,2.0
+2020,Japan,0.5
+2020,Norway,0.5
+2020,South Korea,0.5
+2020,Taiwan,0.5
+2020,United Kingdom,4.5
+2020,United States of America,31.25
+2021,Canada,0.5
+2021,China,17.0
+2021,Finland,1.0
+2021,France,4.833333333333333
+2021,Germany,3.0
+2021,Israel,1.0
+2021,Singapore,1.0
+2021,South Korea,1.5
+2021,Taiwan,0.5
+2021,United Kingdom,5.833333333333333
+2021,United States of America,42.833333333333336
+2022,Australia,0.25
+2022,Canada,1.8333333333333333
+2022,China,8.583333333333334
+2022,France,1.0
+2022,Germany,1.0
+2022,Hong Kong,0.8333333333333333
+2022,Israel,1.0
+2022,Japan,1.0
+2022,Saudi Arabia,1.0
+2022,Singapore,0.25
+2022,South Korea,3.0
+2022,United Kingdom,11.333333333333334
+2022,United States of America,59.916666666666664
+2023,Australia,0.09090909090909091
+2023,Canada,2.590909090909091
+2023,China,21.0
+2023,Finland,0.5
+2023,France,2.833333333333333
+2023,Germany,1.4242424242424243
+2023,Hong Kong,1.3333333333333333
+2023,India,0.09090909090909091
+2023,Israel,0.9242424242424242
+2023,Japan,1.5
+2023,Netherlands,1.0909090909090908
+2023,Saudi Arabia,0.5
+2023,Singapore,2.4242424242424243
+2023,South Korea,1.3333333333333333
+2023,Spain,0.09090909090909091
+2023,Sweden,0.5909090909090909
+2023,Switzerland,0.5
+2023,United Arab Emirates,2.5
+2023,United Kingdom,2.7575757575757573
+2023,United States of America,74.92424242424242
+2024,Australia,1.0
+2024,Canada,0.5
+2024,China,28.666666666666668
+2024,France,4.0
+2024,Germany,1.0
+2024,Hong Kong,1.3333333333333333
+2024,Israel,1.0
+2024,Saudi Arabia,2.0
+2024,Singapore,1.1666666666666665
+2024,South Korea,1.0
+2024,United Kingdom,2.0
+2024,United States of America,54.333333333333336
+2025,Canada,0.5
+2025,China,33.833333333333336
+2025,France,1.0
+2025,Hong Kong,0.3333333333333333
+2025,Singapore,1.0
+2025,South Korea,8.0
+2025,United Kingdom,0.5
+2025,United States of America,61.833333333333336

@@ -1,0 +1,17 @@
+year,eligible_models,represented_countries,top3_countries,top3_weight,top3_share_pct,hhi
+2010,10,3,Canada; United States of America; Germany,10.0,100.0,0.3600000000000001
+2011,11,4,United States of America; Switzerland; Canada,10.5,95.45454545454545,0.33471074380165294
+2012,13,5,Canada; United States of America; Czechia,11.0,84.61538461538461,0.316568047337278
+2013,19,7,United States of America; United Kingdom; Canada,15.5,81.57894736842105,0.42659279778393344
+2014,33,10,United States of America; United Kingdom; Canada,24.83333333333333,75.25252525252523,0.24252627282930314
+2015,28,9,United States of America; United Kingdom; China,24.0,85.71428571428571,0.42538265306122447
+2016,49,11,United States of America; United Kingdom; China,39.833333333333336,81.29251700680273,0.4385672636401501
+2017,55,14,United States of America; United Kingdom; China,40.666666666666664,73.93939393939394,0.23608815426997246
+2018,37,13,United States of America; United Kingdom; India,30.0,81.08108108108108,0.45824202580959333
+2019,68,11,United States of America; United Kingdom; France,58.333333333333336,85.78431372549021,0.5092752787389465
+2020,50,11,United States of America; China; United Kingdom,42.0,84.0,0.4191
+2021,79,11,United States of America; China; United Kingdom,65.66666666666667,83.12236286919831,0.3518399829087219
+2022,91,13,United States of America; United Kingdom; China,79.83333333333333,87.72893772893772,0.4601262595768091
+2023,119,20,United States of America; China; France,98.75757575757575,82.98955946014769,0.43076874243458524
+2024,98,12,United States of America; China; France,87.0,88.77551020408163,0.3962180110139295
+2025,107,8,United States of America; China; South Korea,103.66666666666667,96.88473520249221,0.4397472850612863
